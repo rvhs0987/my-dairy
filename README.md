@@ -108,7 +108,4 @@ Includes:
 
 ---
 
-##  Author
-Bongu Rishi  
-
 
